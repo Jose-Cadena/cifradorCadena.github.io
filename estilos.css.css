@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; /*Evita el desbordamiento de capas, referente a margen, sangria, bordes*/
+}
+.gradiente{
+    background: linear-gradient(to rigth, rgb(247, 103, 103), rgb(83, 54, 54));
+}
